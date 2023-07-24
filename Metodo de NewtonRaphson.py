@@ -55,3 +55,6 @@ def newtonRaphson(f, fprima, x0, n, d):
 
 # Problema 4 HT2
 # newtonRaphson("2*(x**3) - 11.7*(x**2)+17.7*(x) - 5", "6*(x**2)-23.4*(x) + 17.7", 3.55, 10, 4)
+
+# Problema 5 HT2
+# newtonRaphson("1/x", "x**(-1)", 1.9, 10, 4)
